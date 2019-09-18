@@ -1,120 +1,309 @@
 [
     {
+        "url": "https://www.openbugbounty.org/bugbounty/laxdragon/",
+        "scopes": [
+            "codeweavers.com"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/formedialecce/",
+        "scopes": [
+            "tuttoformazione.com"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/robhyland/",
+        "scopes": [
+            "*.roadto.xavier.edu"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/JackLo31157803/",
+        "scopes": [
+            "hub.hku.hk"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/posaohr/",
+        "scopes": [
+            "posao.hr"
+        ],
+        "awards": "[email\u00a0protected]"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/JohnKoutsoubas/",
+        "scopes": [
+            "adslgr.com"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/phdev6/",
+        "scopes": [
+            "peterhahn.se",
+            "peterhahn.nl",
+            "peterhahn.fr",
+            "peterhahn.fi",
+            "peterhahn.dk",
+            "peterhahn.co.uk",
+            "peterhahn.be",
+            "peterhahn.ch",
+            "peterhahn.at",
+            "peterhahn.de"
+        ],
+        "awards": "recommendation in researchers profile, if reproducible"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/AndyMyersAU/",
+        "scopes": [
+            "*.harness.org.au"
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/ukegawa/",
+        "scopes": [
+            "flyteam.jp"
+        ],
+        "awards": "recommendation in researcher's profile, mention in a Hall of Fame or something more valuable proportional to the researcher's efforts"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/pacotix/",
+        "scopes": [
+            "coosy.es"
+        ],
+        "awards": "Awards depends on vulnerability level"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/NetmumsD/",
+        "scopes": [
+            "netmums.com"
+        ],
+        "awards": "We will always provide a recommendation for the user submitting the issue"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/spsuace/",
+        "scopes": [
+            "*.spbgasu.ru"
+        ],
+        "awards": "Sorry, it's not possible to reward you with money, but we can do some else that you suggest to us"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/Marcel93092047/",
+        "scopes": [
+            "*.wika.co.uk",
+            "*.wika.fr",
+            "*.wika.es",
+            "*.wika.at",
+            "*.wika.it",
+            "*.wika.co.jp",
+            "*.wika.co.kr",
+            "*.wika.cn",
+            "*.wika.com.sg",
+            "*.wika.co.th",
+            "*.wika.com.au",
+            "*.wika.co.nz",
+            "*.wika.us",
+            "*.wika.com.eg",
+            "*.wika.com.br",
+            "*.wika.ca",
+            "*.wika.by",
+            "*.wika.be",
+            "*.wika.bg",
+            "*.wika.hr",
+            "*.wika.kz",
+            "*.wika.co.za",
+            "*.wika.sa",
+            "*.wika.com.ar",
+            "*.wika.ae",
+            "*.wika.com.ar",
+            "*.wika.com.mx",
+            "*.wika.fi",
+            "*.wika.lu",
+            "*.wika.nl",
+            "*.wika.com.ph",
+            "*.wika.co.in",
+            "*.wika.com.my",
+            "*.wika.com.na",
+            "*.wika.cl",
+            "*.wika.co",
+            "*.wikapolska.pl",
+            "*.wika.ru",
+            "*.wika.ro",
+            "*.wika.rs",
+            "*.wika.com.tr",
+            "*.wika.ua",
+            "*.wika.com"
+        ],
+        "awards": "Recommendation in researcher's profile and some other requested public recommendations"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/w3c_systeam/",
+        "scopes": [
+            "*.w3.org"
+        ],
+        "awards": "As a nonprofit we do not have funding for awards but are happy to provide credit and acknowledgement for responsible disclosure of genuine security issues."
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/bekchytr/",
+        "scopes": [
+            "*.bekchy.com"
+        ],
+        "awards": "- Low Severity : $10\r\n- Medium Severity : $10-$30\r\n- High Severity : $30-$100\r\n- Critical Severity : $100+"
+    },
+    {
         "url": "https://www.openbugbounty.org/bugbounty/primehalo/",
         "scopes": [
             "*.absoluteanime.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sgramlinger/",
         "scopes": [
             "*.woodblock-print.eu",
             "woodblock-print.eu"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile and some other requested public recommendations"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Biernetnl/",
         "scopes": [
             "biernet.nl"
-        ]
+        ],
+        "awards": "dont know this"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jdengineer2/",
         "scopes": [
             "livingamalfi.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SelectLine_GmbH/",
         "scopes": [
             "selectline.de"
-        ]
+        ],
+        "awards": "Recommendation"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nueffl/",
         "scopes": [
             "speed.io"
-        ]
+        ],
+        "awards": "to be defined"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ItKiva/",
         "scopes": [
             "*.kiva.org"
-        ]
+        ],
+        "awards": "Kiva provides a monetary reward in the form of a Kiva card. This can be used to make a loan which will then pay back to you and can then be withdrawn to PayPal after each repayment.\n\r\nThere of course is also the award of good karma for helping a non-profit to keep its site secure in service to the mission of helping those who are less fortunate in the world."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/pedro_simoes/",
         "scopes": [
             "pplware.sapo.pt"
-        ]
+        ],
+        "awards": " "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/architectenweb/",
         "scopes": [
             "architectvanhetjaar.nl",
             "architectenweb.nl"
-        ]
+        ],
+        "awards": "You will always get our gratitude. In some cases there may be a small compensation, depending on the severity."
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/EmailresponderE/",
+        "scopes": [
+            "emailresponder.eu"
+        ],
+        "awards": "I don't make any money from this site (on the opposite it costs me money), thus the only award i can give away is a mention on the site (if you wanna also have a link to any personal webpage, i'm fine with it)."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/YtG8UfIgeeSuhQe/",
         "scopes": [
             "dobrovdome.ru"
-        ]
+        ],
+        "awards": "\r\nthe reward will be proportional to the value of testing"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/giger_ch/",
         "scopes": [
             "alpnesstrail.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Untanux/",
         "scopes": [
             "*.studentas.vdu.lt"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile, mention in a Hall of Fame"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IwareSolutions/",
         "scopes": [
             "tennisplanet.de"
-        ]
+        ],
+        "awards": "-----------"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/azexis/",
         "scopes": [
             "pickeringtest.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PenguinWorldEN/",
         "scopes": [
             "penguinworld.co",
             "*.penguinworld.co"
-        ]
+        ],
+        "awards": "Penguin World Hall of Fame which everyone can see\r\nSpecial item in-game"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TWulkau/",
         "scopes": [
             "sport-tiedje.de"
-        ]
+        ],
+        "awards": "- Shopping vouchers"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/wwwCLOUDorgMY/",
         "scopes": [
             "*.k-ict.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/rdebled/",
         "scopes": [
             "bookshelf.ca"
-        ]
+        ],
+        "awards": "No possible awards"
+    },
+    {
+        "url": "https://www.openbugbounty.org/bugbounty/mitio/",
+        "scopes": [
+            "receipt-bank.com"
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/loswebosde/",
         "scopes": [
             "loswebos.de"
-        ]
+        ],
+        "awards": "At the moment there are no general rewards, but this might change in the near future. Of course, rewards are not completely excluded."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GordonChanNet/",
@@ -122,62 +311,65 @@
             "lanecrawford.com.cn",
             "lanecrawford.com",
             "lanecrawford.com.hk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SwimBugReport/",
         "scopes": [
             "swimlane.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/NewLineHorizon1/",
         "scopes": [
             "newlinehorizon.ml"
-        ]
+        ],
+        "awards": "50$-1000$\r\nRecommendation in researcher's profile for valid reports."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/decrypted/",
         "scopes": [
             "*.unikrn.com"
-        ]
-    },
-    {
-        "url": "https://www.openbugbounty.org/bugbounty/mwayservices/",
-        "scopes": [
-            "*.motorwayservicesonline.co.uk"
-        ]
+        ],
+        "awards": "To show our appreciation of responsible security researchers, Unikrn offers a monetary bounty for reports of qualifying security vulnerabilities. Reward amounts will vary based upon the severity of the reported vulnerability, and eligibility is at our sole discretion."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/muzzerruzzer1/",
         "scopes": [
             "truenz-smart.co.nz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/luizping/",
         "scopes": [
             "*.tratore.com.br"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/goobisgoofy/",
         "scopes": [
             "heyitsfree.net"
-        ]
+        ],
+        "awards": "Happy to provide recommendation in researcher's profile and social media with a possible cash rewards."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Ads2publish/",
         "scopes": [
             "ads2publish.com",
             "ads2publish.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DonJaja10/",
         "scopes": [
             "*.wikiwaparz.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/medvedoff/",
@@ -185,7 +377,8 @@
             "*.proficasing.cz",
             "*.rezidence-anna.cz",
             "*.machuzky.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JobomasD/",
@@ -193,13 +386,15 @@
             "*.mercadojobs.com",
             "*.jobomas.com",
             "hrm.jobomas.com"
-        ]
+        ],
+        "awards": "- Cross Site Scripting (XSS)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CisoUbc/",
         "scopes": [
             "*.ubc.ca"
-        ]
+        ],
+        "awards": "Public commendation"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/pharma4u_de/",
@@ -207,65 +402,75 @@
             "pharma4u.de",
             "apothekerwebinare.de",
             "software.labxpert.de"
-        ]
+        ],
+        "awards": "pharma4u grants rewards (also called bounty and/or bounties) for reporting software vulnerabilities in accordance with this Program. rewards may be granted if the following requirements are collectively fulfilled:\n\r\n- Responsible Investigation\r\n- Complete Bug Report\r\n- Eligibility of Vulnerability\r\n- Responsible Disclosure\n\r\nIf just one of the above requirements is not fulfilled, this has to be assessed as a non-compliance with this Program.\n\r\npharma4u decides at its sole and own discretion whether a reward is granted and the exact amount of such bounty.\r\nRewards are paid out via gifts from online shops (e.g. Amazon). We will ask you for a wish on amazon. Feel free send us your Amazon wish list when reporting a bug.\n\r\nThe reward that can be expected for your bug report depends on the severity of the reported vulnerability. The table below will give you a general guideline what you can expect for your investigation efforts:\r\nVulnerability \tValue of gift (EUR)\r\nCritical 100 (or more dependent on severeness of vulnerability)\r\nHigh \t50\r\nMedium \t25\r\nLow \t5\n\r\nThe above mentioned amounts are minimum bounties for each level of vulnerability. A concrete bounty may excess the minimum amount based on the severity of the vulnerability and/or the Security Researcher's technique and reporting quality. The granted reward will be determined by the impact on the pharma4u Service.\n\r\nPrevious granted bounty amounts are not considered precedent for future bounty amounts.\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tvprofil/",
         "scopes": [
             "tvprofil.com",
             "tvprofil.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SendPulseCom/",
         "scopes": [
             "*.sendpulse.com",
             "login.sendpulse.com"
-        ]
+        ],
+        "awards": "The standard reward is $50.\n\r\nTo qualify for a reward under this program, you should:\n\r\n* Be the first to report a vulnerability.\r\n* Send a clear textual description of the report along with steps to reproduce the vulnerability.\r\n* Include attachments such as screenshots or proof of concept code as necessary.\r\n* Disclose the vulnerability report directly and exclusively to us.\n\r\nA good bug report should include the following information at a minimum:\n\r\n*   List the URL and any affected parameters\r\n*   Describe the browser and OS \r\n*   Describe the perceived impact. How could the bug potentially be exploited?\r\nVideos and/or screenshots can be helpful.\n\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Startartikel/",
         "scopes": [
             "*.brawland.com",
             "*.goedbegin.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/FONDY_EU/",
         "scopes": [
             "*.fondy.eu"
-        ]
+        ],
+        "awards": "Bug bounty reward program paused due to the high number of duplicated reports. The program will be restarted after major issues fixed."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AdrasteaAlysia/",
         "scopes": [
             "my.syndicom.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tawfiqct/",
         "scopes": [
             "chateaugontier.fr"
-        ]
+        ],
+        "awards": "Cross Site Scripting (XSS)\r\nCross Site Request Forgery (CSRF)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/clickmeetingdev/",
         "scopes": [
             "*.clickwebinar.com",
             "*.clickmeeting.com"
-        ]
+        ],
+        "awards": "You will always get our gratitude. At present we do not offer any other awards."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/EBI_IT_Helpdesk/",
         "scopes": [
             "*.ebi.ac.uk"
-        ]
+        ],
+        "awards": "Reporter to refrain from requesting compensation for reporting vulnerabilities. Upon request we will publicly acknowledge reporter\u2019s responsible disclosure after issues are resolved."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/HibobSecurity/",
         "scopes": [
             "*.hibob.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/easyname/",
@@ -275,152 +480,177 @@
             "*.easyname.de",
             "*.easyname.at",
             "*.easyname.com"
-        ]
+        ],
+        "awards": "At the moment there are no rewards, but this might change in the near future."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/24auru/",
         "scopes": [
             "*.au.ru"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AlldomainsH/",
         "scopes": [
             "alldomains.hosting",
             "manage.alldomains.hosting"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/meesha2009/",
         "scopes": [
             "beta.domsys.eu"
-        ]
+        ],
+        "awards": "We offer $10 - $100 based on severity of bug."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/coin_loan/",
         "scopes": [
             "*.coinloan.io"
-        ]
+        ],
+        "awards": "We are reviewing each report individually, so the reward depends on the vulnerability type and its impact. However, we can honestly say that for critical vulnerabilities the reward will be not less than the market average.\r\nThe reward can be paid in cryptocurrency or with regular fiat options."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RMV1983/",
         "scopes": [
             "*.eduvdom.com"
-        ]
+        ],
+        "awards": "Say thanks to researcher or something like that proportional to the researcher's efforts."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MichaelJGroh/",
         "scopes": [
             "scmsjournal.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hearthstonehu/",
         "scopes": [
             "hearthstonehungary.hu"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/twoucan/",
         "scopes": [
             "twoucan.com"
-        ]
+        ],
+        "awards": "\u5831\u544a\u3092\u53d7\u3051\u6b21\u7b2c\u691c\u8a0e\u3057\u307e\u3059\u304c\u3001\u91cd\u5927\u306a\u8106\u5f31\u6027\u4ee5\u5916\u306f\u5831\u5968\u91d1\u3092\u51fa\u3059\u306e\u306f\u96e3\u3057\u3044\u3068\u304a\u8003\u3048\u4e0b\u3055\u3044\u3002\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/imapuzzlegame/",
         "scopes": [
             "*.im-a-puzzle.com"
-        ]
+        ],
+        "awards": "Mention in the website"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lmao2895/",
         "scopes": [
             "silveradorecords.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JuniorTidal/",
         "scopes": [
             "*.library.citytech.cuny.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Jerski124/",
         "scopes": [
             "flowmedik.com"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/smartvalorinc/",
         "scopes": [
             "smartvalor.com"
-        ]
+        ],
+        "awards": "In addition to mentions on our Hall of Fame and a recommendation on your profile, SMART VALOR rewards the reports based on the severity of the vulnerabilities. The following is a compensation structure for reference.\n\r\nCritical - up to 10,000 VALOR\r\nMajor - up to 1,000 VALOR\r\nMinor - up to 100 VALOR\r\nTrivial - up to 10 VALOR\n\r\nKindly note that SMART VALOR has the right to determine the severity level and modify the compensation model, as well as the right to decline or reject reports that do not meet the stated guidelines.\n\r\nNote that all bounty VALORs are subject to a lock-up of 6 months.\r\nFor the latest price of the VALOR, visit: https://coinmarketcap.com/currencies/valor-token/"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/supsocosi/",
         "scopes": [
             "*.ameli.fr"
-        ]
+        ],
+        "awards": "Please report vulnarabilities to our Abuse email"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/apthorburn/",
         "scopes": [
             "hutton.ac.uk"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/troelspoppe/",
         "scopes": [
             "proteinbolaget.se"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SteamPrices/",
         "scopes": [
             "steamprices.com"
-        ]
+        ],
+        "awards": "Monetary reward for impactful XSS/XSRF vulnerabilities and for any SQL injection. I pay between \u20ac10 and \u20ac50 and only via PayPal.\n\r\nThe amount depends on the type of the attack and the possible long-term damage (e.g. information disclosure about a single user or all users).\n\r\nRecommendation on your profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Zefyx/",
         "scopes": [
             "ardeche-decouverte.com"
-        ]
+        ],
+        "awards": "A big kiss :-)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/aapit/",
         "scopes": [
             "*.grrr.nl"
-        ]
+        ],
+        "awards": "Recommendations & cool t-shirts"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ashemaletubecom/",
         "scopes": [
             "*.ashemaletube.com"
-        ]
+        ],
+        "awards": "based on each bug report"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MalagaCarCom/",
         "scopes": [
             "*.malagacar.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/titomOo/",
         "scopes": [
             "transauto.be"
-        ]
+        ],
+        "awards": "Just test for moment"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/metanetDev/",
         "scopes": [
             "*.metanet.ch"
-        ]
+        ],
+        "awards": "To be defined."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eduha/",
         "scopes": [
             "autotorg.kz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Vink_78/",
@@ -428,144 +658,167 @@
             "jeunessedeberolle.ch",
             "mon-net.org",
             "tirberolle.ch"
-        ]
+        ],
+        "awards": "recommandation"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lovenamepix/",
         "scopes": [
             "lovenamepix.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CreativeSparkSt/",
         "scopes": [
             "*.creativesparkstudios.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/BrianTafoya/",
         "scopes": [
             "missmarijuana.com",
             "marijuanaselfies.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tvsecurity1/",
         "scopes": [
             "*.tradingview.com"
-        ]
+        ],
+        "awards": "Your reward will depend on the discovered vulnerability as well as it\u2019s security impact."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/derbarkeeper/",
         "scopes": [
             "mixable.app",
             "mixable.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tabweg/",
         "scopes": [
             "intrusivethoughts.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/putzflorian/",
         "scopes": [
             "sportunion-oberwang.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LancasterUniSOC/",
         "scopes": [
             "*.lancs.ac.uk",
             "*.lancaster.ac.uk"
-        ]
+        ],
+        "awards": "All validated issues that are controlled by the central IT service will be acknowledged on the users OpenBountyPage.  "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/steven_chanin/",
         "scopes": [
             "firstkidbank.com"
-        ]
+        ],
+        "awards": "I'd be happy to write a recommendation and mention you on the First Kid Bank twitter feed and Facebook page."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/everlats/",
         "scopes": [
             "jazzradio.fr",
             "generations.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JonathanTruchon/",
         "scopes": [
             "*.kaleidos.ca"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/HimYung2/",
         "scopes": [
             "red-publish.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/stringerasia1/",
         "scopes": [
             "stringerasia.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CMCM_Webdesign/",
         "scopes": [
             "heinergoebbels.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/angularjobs/",
         "scopes": [
             "angularjobs.com",
             "*.angularjobs.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jcc_test/",
         "scopes": [
             "sunyjcc.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/libcast_IO/",
         "scopes": [
             "oniseptv.onisep.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/straysan/",
         "scopes": [
             "*.hausgemacht.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iGopherFr/",
         "scopes": [
             "igopher.fr"
-        ]
+        ],
+        "awards": "In thanks, we can recommend you on this site."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JackinCanada/",
         "scopes": [
             "namelix.com"
-        ]
+        ],
+        "awards": "a tweet and coffee : ]"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PetrovicLubos/",
         "scopes": [
             "smdledzarovky.cz"
-        ]
+        ],
+        "awards": "- Cross Site Scripting (XSS)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/petersandtner/",
         "scopes": [
             "*.finviz.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/enejcz/",
@@ -578,44 +831,51 @@
             "iitv.info",
             "polandoo.com",
             "xes.pl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/circulaires_qc/",
         "scopes": [
             "circulaire-en-ligne.ca"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MChinnasamy/",
         "scopes": [
             "infrafrontier.eu"
-        ]
+        ],
+        "awards": "Recommendations and others based on the work and discussion..."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AppBentley/",
         "scopes": [
             "*.bentley.com"
-        ]
+        ],
+        "awards": "The value of awards, if any, will be determined at the resolution of the incident. There are no guarantee that a reward will be awarded for a submission."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Cats_Laboratory/",
         "scopes": [
             "*.technometalpost.com",
             "*.technopieux.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/McMullen_Greg/",
         "scopes": [
             "xavier.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iss_tracker_pl/",
         "scopes": [
             "*.isstracker.pl"
-        ]
+        ],
+        "awards": "the project is free, without income"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/YannRichard12/",
@@ -623,31 +883,36 @@
             "*.lairedu.fr",
             "*.uhb.fr",
             "*.univ-rennes2.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/flowplayer/",
         "scopes": [
             "flowplayer.com"
-        ]
+        ],
+        "awards": "I just want to know if there are any vulnerabilities"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/InspectUSA/",
         "scopes": [
             "inspectusa.com"
-        ]
+        ],
+        "awards": "None at this time"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/playitonlinede/",
         "scopes": [
             "playit-online.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/source_dr/",
         "scopes": [
             "lerepairedesmotards.com"
-        ]
+        ],
+        "awards": "mention in hall of fame"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CoolgearLabs/",
@@ -655,73 +920,85 @@
             "*.secursite.com",
             "*.coolgear.com",
             "*.usbgear.com"
-        ]
+        ],
+        "awards": "Mention or Recommendation Only."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jmarcv/",
         "scopes": [
             "sellersourcebook.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/luminousw/",
         "scopes": [
             "forterra.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LouisLam/",
         "scopes": [
             "whatsticker.online"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mlerley/",
         "scopes": [
             "smtnet.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AnarchistItachi/",
         "scopes": [
             "elsfineleather.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mapreri/",
         "scopes": [
             "ubuntu-it.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/samuelragot/",
         "scopes": [
             "sqdi.ca"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tedra_uk/",
         "scopes": [
             "ninjatune.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/oswnl/",
         "scopes": [
             "osw.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mal_share/",
         "scopes": [
             "*.malshare.com"
-        ]
+        ],
+        "awards": "Kudos / Twitter shoutout"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AniDBStatus/",
         "scopes": [
             "*.anidb.net"
-        ]
+        ],
+        "awards": "AniDB has no ads and does not collect userdata. We are a nonprofit user-generated database and have been operating this way since 2002. Hence all we can offer is our eternal gratitude."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/isOnAt/",
@@ -732,208 +1009,241 @@
             "*.ein-synonym.de",
             "*.minpic.de",
             "*.minpic.net"
-        ]
+        ],
+        "awards": "Just thanks alot, but actually we can't afford any rewards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mtimothy984/",
         "scopes": [
             "redditloans.com"
-        ]
+        ],
+        "awards": "This website does not make a profit, however if you disclose vulnerabilities which leak personally identifiable information I will provide $250 in 2019-dollars. Smaller awards as appropriate."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/VascoYannic/",
         "scopes": [
             "tournej.com",
             "*.meinturnierplan.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/publicare_test/",
         "scopes": [
             "publicare.de"
-        ]
+        ],
+        "awards": "love, peace and a cup of coffee"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/erichmusick/",
         "scopes": [
             "ddmgaragedoors.com"
-        ]
+        ],
+        "awards": "We are a small company and appreciate your insight. We're able to thank privately and publicly but typically not much more than that."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/headwaterhols/",
         "scopes": [
             "headwater.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nms_is_here/",
         "scopes": [
             "*.gocar.gr"
-        ]
+        ],
+        "awards": "no awards for now"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SoftwareDlp/",
         "scopes": [
             "australien-info.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PaulAtTheHug/",
         "scopes": [
             "*.walklakes.co.uk",
             "*.the-hug.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/proomag/",
         "scopes": [
             "proomag.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/alhart4/",
         "scopes": [
             "*.ziften.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fandreasen2/",
         "scopes": [
             "mypersonal.dk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/heavyhostbr/",
         "scopes": [
             "lg.bhs.heavyhost.com.br"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IntricaUK/",
         "scopes": [
             "*.larkspeed.com"
-        ]
+        ],
+        "awards": "Recommendation is researchers profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/herecy/",
         "scopes": [
             "tullner-naschmarkt.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/covenantchild/",
         "scopes": [
             "ulmer.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/StanislavVojir/",
         "scopes": [
             "*.vse.cz",
             "ffu.vse.cz"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile, thanks"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/thisismeraul/",
         "scopes": [
             "*.docs.terrassa.cat"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/openclipart/",
         "scopes": [
             "openclipart.org"
-        ]
+        ],
+        "awards": "Sorry we don't give any rewards except recommendations. We are non-profit, we provide Free Public Domain images. We have ads on our website but it pay mostly for server costs.\n\r\nI think that the only thing we can do is to have thank you page with link to researcher that will give some SEO boost to his page.\n\r\nWe can also give thank you on twitter."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/rhyswynne/",
         "scopes": [
             "wpemailcapture.com",
             "retrogarden.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TaquillaCom/",
         "scopes": [
             "taquilla.com"
-        ]
+        ],
+        "awards": "At the moment there are no rewards, but this might change in the near future."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/onlinebizsoft/",
         "scopes": [
             "macfixit.com.au"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tropicaljeremy/",
         "scopes": [
             "forsmallhands.com",
             "montessoriservices.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TheAtlanticSec1/",
         "scopes": [
             "theatlantic.com",
             "*.theatlantic.com"
-        ]
+        ],
+        "awards": "If we judge a security issue to be valid and sufficiently serious, we will leave a favorable recommendation on the researcher's profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/gravitetech/",
         "scopes": [
             "mad-hq.com",
             "mad-hq.com"
-        ]
+        ],
+        "awards": "Please halt all tests until further notice."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GostreamsT/",
         "scopes": [
             "gostreams.to"
-        ]
+        ],
+        "awards": "Any recommendation. Remuneration"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bawolfe/",
         "scopes": [
             "eflow.org",
             "eflow.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/cantoute/",
         "scopes": [
             "foot01.com"
-        ]
+        ],
+        "awards": "not defined"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/keshav0001/",
         "scopes": [
             "*.screenguards.co.in"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/EarthwayNetwork/",
         "scopes": [
             "*.earthwayexperience.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LiveDepartment/",
         "scopes": [
             "liveandinvestoverseas.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mogiwitt/",
         "scopes": [
             "cs.scranton.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/davidc26278706/",
         "scopes": [
             "bfgoodrichtires.com",
             "michelinman.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/steblar/",
@@ -946,43 +1256,50 @@
             "en.storeden.com",
             "blomming.com",
             "blomming.com"
-        ]
+        ],
+        "awards": "N/A at this time"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/saezlive/",
         "scopes": [
             "saezlive.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bn-mossifer/",
         "scopes": [
             "babynames.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/it_rgu/",
         "scopes": [
             "rgu.ac.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Downnotify/",
         "scopes": [
             "downnotifier.com"
-        ]
+        ],
+        "awards": "We will recommend everyone who finds a vulnerability."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Project84823360/",
         "scopes": [
             "projectmanagement.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/devs_kc/",
         "scopes": [
             "*.klascement.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/netasceta/",
@@ -997,120 +1314,140 @@
             "*.quadernsdepsicologia.cat",
             "papers.uab.cat",
             "revistes.uab.cat"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GhislerSoftware/",
         "scopes": [
             "ghisler.com",
             "ghisler.ch"
-        ]
+        ],
+        "awards": "- mentioned on our public credits page\r\n- recommendation in your profile\r\n- monetary reward via Paypal, depending on the severity.\r\nReward ranges from $50 for low to $500 to critical vulnerability. Actual reward open to negotiation."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MarkD96260171/",
         "scopes": [
             "*.financialcontent.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/c_rv_n/",
         "scopes": [
             "beatles.ru"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Jegulocom/",
         "scopes": [
             "jegulo.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/giroud_francois/",
         "scopes": [
             "weblettres.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/blakerich/",
         "scopes": [
             "*.usu.edu"
-        ]
+        ],
+        "awards": "We aren't able to give financial compensation.  We're happy to add thanks and recommentations."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/kloop007/",
         "scopes": [
             "*.tallinnlv.ee"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dusalnet/",
         "scopes": [
             "*.blogmn.net",
             "*.dusal.net"
-        ]
+        ],
+        "awards": "Just testing..."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/OskarsPakers/",
         "scopes": [
             "*.realat.lv"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Marek62732203/",
         "scopes": [
+            "*.forgamers.ithardware.pl",
             "ithardware.pl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mattkressel/",
         "scopes": [
             "beneath-ceaseless-skies.com",
             "matthewkressel.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/myparadisio/",
         "scopes": [
             "paradisio-online.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/chaiyot/",
         "scopes": [
             "thairoute.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/FzGroup/",
         "scopes": [
             "*.fzmovies.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/d_karvounaris/",
         "scopes": [
             "tutkit.com",
             "psd-tutorials.de"
-        ]
+        ],
+        "awards": "No further information at this point."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/EREPAR/",
         "scopes": [
             "erepar.fr",
             "erepar.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GOTMLS/",
         "scopes": [
             "*.gotmls.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/moensd/",
         "scopes": [
             "*.rotz.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tignicke/",
@@ -1133,125 +1470,147 @@
             "win.radiox.co.uk",
             "win.capitalfm.com",
             "win.heart.co.uk"
-        ]
+        ],
+        "awards": "No possible awards."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/waga_tw/",
         "scopes": [
             "t-web.shibaura-it.ac.jp"
-        ]
+        ],
+        "awards": "Many words of thanks."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/temmet/",
         "scopes": [
             "cuescore.com"
-        ]
+        ],
+        "awards": "We don't currently have an award plan."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GtBib/",
         "scopes": [
             "directorioexit.info"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/interactmultim1/",
         "scopes": [
             "gswb.at"
-        ]
+        ],
+        "awards": "recommendation"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LionsHomeDE/",
         "scopes": [
             "lionshome.de",
             "lionshome.es"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/pavelmusil/",
         "scopes": [
+            "idfix.cz",
+            "maatreal.cz",
             "archaiabrno.org",
             "novalja.cz"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile, mention in a Hall of Fame"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nicolapanizza/",
         "scopes": [
             "sagretoscane.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iainmullan/",
         "scopes": [
             "vinylscrobbler.com"
-        ]
+        ],
+        "awards": "Good feedback and recommendation on your OpenBugBounty profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/webconcern/",
         "scopes": [
             "webconcern.nl",
             "vastgoedjournaal.nl"
-        ]
+        ],
+        "awards": "We would like to acknowledge all submissions by a recognition on the researchers profile. We will reward multiple submissions and larger security flaws accordingly."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CornuSebastien/",
         "scopes": [
             "toutes-les-radios.fr"
-        ]
+        ],
+        "awards": "No rewards sry, it's a small non profitable website"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Gioxx/",
         "scopes": [
             "*.gioxx.org"
-        ]
+        ],
+        "awards": "Acknowledgments on https://gioxx.org/about/acknowledgments, @gioxx (Twitter) and Gioxx's Wall Facebook Page."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/brian_essig/",
         "scopes": [
             "*.cpj.org",
             "*.absolutefencinggear.com"
-        ]
+        ],
+        "awards": "Recommendation of Researcher in Profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LukeFos17844551/",
         "scopes": [
             "comforium.com"
-        ]
+        ],
+        "awards": " Possible Awards: "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/BenjaminSchemb1/",
         "scopes": [
             "*.stimmgerecht.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CastlegateIT/",
         "scopes": [
             "*.rfwp.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eco_sapiens/",
         "scopes": [
             "eco-sapiens.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/123schedules/",
         "scopes": [
             "dealerbookings.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/casinopanet1/",
         "scopes": [
             "*.casino545.com"
-        ]
+        ],
+        "awards": "- Cross Site Scripting (XSS)\r\n- Open Redirect\n\r\n- Cross Site Request Forgery (CSRF)\r\n- Improper Access Control"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ChabadoneY/",
         "scopes": [
             "jewishwaukesha.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/uniteddomains/",
@@ -1260,19 +1619,22 @@
             "united-domains.de",
             "ud-reselling.com",
             "domain-recht.de"
-        ]
+        ],
+        "awards": "We reserve the right to adjust the bounty amount and to change the vulnerability level of the report accordingly, as well as not to make a payout if, in our opinion, the above criteria have not been met. These bounties are only a guideline.\n\r\n* Low 50 \u20ac\r\n* Medium 125 \u20ac\r\n* High 250 \u20ac\r\n* Critical 500 \u20ac"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SearaDev/",
         "scopes": [
             "*.silampos.pt"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/shape_do/",
         "scopes": [
             "*.shapedo.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bergfex/",
@@ -1280,32 +1642,37 @@
             "bergfex.at",
             "bergfex.com",
             "*.bergfex.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/artentino/",
         "scopes": [
             "artentino.com"
-        ]
+        ],
+        "awards": "Recognition, thanks, fame;"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PeterA8e/",
         "scopes": [
             "pallietertrappers.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Ryte_CERT/",
         "scopes": [
             "*.ryte.com"
-        ]
+        ],
+        "awards": "Depending on the severity of the reported issue:\r\n- Recommendation in researcher's profile\r\n- Mention in a Hall of Fame\r\n- Social media mentions\r\n- Swag/Merchandise\n\r\nWe don't provide monetary rewards at the moment, but this might change."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/inocenth4x0r/",
         "scopes": [
             "inocent-real-nig.ga",
             "inocent.com.br"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Koze/",
@@ -1316,40 +1683,46 @@
             "amorelie.ch",
             "amorelie.fr",
             "amorelie.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/althaus_it/",
         "scopes": [
             "tabletoptournaments.net",
             "tabletopturniere.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JimM97459222/",
         "scopes": [
             "abrasivestore.com",
             "grithappens.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dk2bbp/",
         "scopes": [
             "victoriaeugenia.eus",
             "donostiakultura.eus"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/L2JDrLecter/",
         "scopes": [
             "justiciajujuy.gov.ar"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/camvoice/",
         "scopes": [
             "camvoice.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DefShopDevop1/",
@@ -1368,31 +1741,36 @@
             "inflammable.com",
             "burner.de",
             "*.def-shop.com"
-        ]
+        ],
+        "awards": "We can offer 15% coupons"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SportsMole/",
         "scopes": [
             "sportsmole.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IT_Wolve/",
         "scopes": [
             "pepperl-fuchs.com"
-        ]
+        ],
+        "awards": "our infinite thanks for the efforts. recommendation in researcher\\'s profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DomainMOD/",
         "scopes": [
             "domainmod.org"
-        ]
+        ],
+        "awards": "As this is an open source project that doesn\\'t generate revenue (quite the opposite, in fact), unfortunately I can\\'t offer monetary compensation. I would be happy to recommend you on here or LinkedIn though, and I\\'m open to other suggestions for compensation."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MyGamerProfile/",
         "scopes": [
             "mygamerprofile.net"
-        ]
+        ],
+        "awards": "Will aim to give recommendations to all researchers.\n\r\nMonetary rewards not currently possible. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SvenJaster/",
@@ -1403,56 +1781,65 @@
             "*.micealocoileain.com",
             "*.lom-barcelona.com",
             "danielawick.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/newmelchi/",
         "scopes": [
             "expertrec.com"
-        ]
+        ],
+        "awards": "Honorary mention"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SaeedSharaf/",
         "scopes": [
             "es.me"
-        ]
+        ],
+        "awards": "Recommendation and possible financial contribution based on threat level."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/heli_ammann/",
         "scopes": [
             "bioforschung.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JulienBalmont/",
         "scopes": [
             "reservations.zenchef.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/davemaher/",
         "scopes": [
             "ino.com",
             "*.ino.com"
-        ]
+        ],
+        "awards": "Our gratitude varies by severity."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ViburnumOpulus/",
         "scopes": [
             "*.national-football-teams.com"
-        ]
+        ],
+        "awards": "Since we are totally non-profit we cannot pay any prices. But we probably add you in our credits section"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jobindo_com/",
         "scopes": [
             "jobindo.com"
-        ]
+        ],
+        "awards": "public recognition tweets or others"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SecurityBl/",
         "scopes": [
             "*.bl.uk"
-        ]
+        ],
+        "awards": "Our thanks and appreciation :)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IsmBf/",
@@ -1464,75 +1851,87 @@
             "efahrer.chip.de",
             "burda-forward.de",
             "chip.de"
-        ]
+        ],
+        "awards": "The minimum reward for every eligible report is a mentioning in our Hall of Fame. \n\r\nReward payment amounts are based on the severity, impact and quality of your report. \r\nThe recipient is responsible for the correct taxation of his reward.\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JobNimbus/",
         "scopes": [
             "*.jobnimbus.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Luke48176166/",
         "scopes": [
             "comforium.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lymonium/",
         "scopes": [
             "subacomic.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/getsizeable/",
         "scopes": [
             "*.southrivertech.com"
-        ]
+        ],
+        "awards": "Depends on level of vulnerability."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GloriaDiamonds/",
         "scopes": [
             "tokoperhiasan.co.id"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/recneps_divad/",
         "scopes": [
             "*.bookmine.com",
             "bookmine.com"
-        ]
+        ],
+        "awards": "No rewards, sorry! Not a big site..."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/okpedia/",
         "scopes": [
             "okpedia.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dev_span/",
         "scopes": [
             "c-span.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/beinbm/",
         "scopes": [
             "fotograf.de"
-        ]
+        ],
+        "awards": "Swag, appreciation, monetary depending on the found bug"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tswestendorp/",
         "scopes": [
             "sevenymedia.nl",
             "tswestendorp.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fparisot/",
         "scopes": [
             "*.fpnet.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/gizmotico/",
@@ -1544,31 +1943,36 @@
             "vegatrappa.no",
             "bryggaognaustet.no",
             "vegadesign.net"
-        ]
+        ],
+        "awards": "Recommeendation in researcher's profile\r\nMention in hall of fame\r\nMoney prizes"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iOffer/",
         "scopes": [
             "ioffer.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Gayan_Priyankar/",
         "scopes": [
             "sarasavi.lk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SergeTr18494799/",
         "scopes": [
             "onscope.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sniko_/",
         "scopes": [
             "etherscamdb.info"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ncprog/",
@@ -1576,44 +1980,51 @@
             "mapi.co.il",
             "profity.co.il",
             "ladys.co.il"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CondoVive/",
         "scopes": [
             "*.condovive.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ig_fedoseev/",
         "scopes": [
             "wheely.com"
-        ]
+        ],
+        "awards": "Depends on the level of vulnerability. Kudos in general"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/KeysStore1/",
         "scopes": [
             "*.keys-store.net"
-        ]
+        ],
+        "awards": "Hall of Fame and small gift :)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/vixducis/",
         "scopes": [
             "scoutswechel.be",
             "*.scoutswechel.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/gioogle88/",
         "scopes": [
             "trento.oseegenius.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sravni_ru/",
         "scopes": [
             "sravni.ru"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JanMlady/",
@@ -1657,19 +2068,22 @@
             "eshop.fortisdb.cz",
             "mladyjazz.troell.cz",
             "*.bralep.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/watergateweb/",
         "scopes": [
             "*.4ty.gr"
-        ]
+        ],
+        "awards": "We offer recommendations in the researcher' s profile, mentions in the Hall of Fame and in particular circumstances, when the project allows, we may offer money for the security problem found."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MatchesPubg/",
         "scopes": [
             "pubg-matches.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/_light_dem/",
@@ -1684,68 +2098,79 @@
             "aulss3.veneto.it",
             "prevenzione.aulss9.veneto.it",
             "aulss9.veneto.it"
-        ]
+        ],
+        "awards": "reccomendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/affinitydigital/",
         "scopes": [
             "catapult.org.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Sixten591/",
         "scopes": [
             "procup.se"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/deepthoughts10/",
         "scopes": [
             "*.golubcapital.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DeBuecher/",
         "scopes": [
             "*.buecher.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/shuttle_europe/",
         "scopes": [
             "sys.eu.shuttle.com",
             "shuttle.eu"
-        ]
+        ],
+        "awards": "We'll mention you in social media (with your consent)."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jakubfuksik/",
         "scopes": [
             "optimtop.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ImperfctCosplay/",
         "scopes": [
             "kibo.fm"
-        ]
+        ],
+        "awards": "Mention on our Facebook Page"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Tholt186/",
         "scopes": [
             "mikeholt.com"
-        ]
+        ],
+        "awards": "Recognition via Twitter tweet."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SprytnyJanusz/",
         "scopes": [
             "*.arystoteles.pl"
-        ]
+        ],
+        "awards": "Recommendation in profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/opanBIZ/",
         "scopes": [
             "*.maths.id"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Deepanshu/",
@@ -1758,74 +2183,86 @@
             "*.gadgets360.com",
             "*.hotdeals360.com",
             "*.gadgets.ndtv.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dietcheese/",
         "scopes": [
             "alphabetizer.flap.tv"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/xmsystat/",
         "scopes": [
             "ximea.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bentogoa/",
         "scopes": [
             "bluestarhotelgoa.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/marekl/",
         "scopes": [
             "*.zive.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/deskwork2/",
         "scopes": [
             "chumap.jp"
-        ]
+        ],
+        "awards": "Please do not perform security test on my site"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/weddywood/",
         "scopes": [
             "weddywood.ru"
-        ]
+        ],
+        "awards": "- Low Severity : $10\r\n- Medium Severity : $30\r\n- High Severity : $50\r\n- Critical Severity : $50+"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lucky_tonyljj/",
         "scopes": [
             "laviedurail.com"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DixNoonanWebb/",
         "scopes": [
             "dnw.co.uk",
             "dnw.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dair_media/",
         "scopes": [
             "dair-media.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/EmilObermayr/",
         "scopes": [
             "navigator.guehring.de"
-        ]
+        ],
+        "awards": "We appreciate your help and acknowledge your help and support."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Bertrand86/",
         "scopes": [
             "*.lyceebranly.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/2affan/",
@@ -1834,20 +2271,23 @@
             "ticketslover.com",
             "*.promolover.com",
             "*.ticketslover.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SilentFL/",
         "scopes": [
             "slam.flankers.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/WunderNerds/",
         "scopes": [
             "wunderflats.com",
             "wunderflats.de"
-        ]
+        ],
+        "awards": "Sadly we don't have rewards as of now."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nunAmen/",
@@ -1857,128 +2297,149 @@
             "*.map4erfurt.de",
             "*.gv-neumann.de",
             "*.neumann-andreas.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/kaikai8053/",
         "scopes": [
             "biggo.com.tw"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/laufpix/",
         "scopes": [
             "*.laufpix.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/owenborseth/",
         "scopes": [
             "porkbun.com"
-        ]
+        ],
+        "awards": "Please view our bug bounty program at https://porkbun.com/products/bug_bounty"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Guilrobis/",
         "scopes": [
             "*.lafranceinsoumise.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/BMoncur/",
         "scopes": [
             "billiongraves.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/thecalcsite/",
         "scopes": [
             "thecalculatorsite.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tdmtester/",
         "scopes": [
             "theactivetimes.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/asmitter/",
         "scopes": [
             "andysmith.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sagewire/",
         "scopes": [
             "corporationwiki.com"
-        ]
+        ],
+        "awards": "possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/UUCSIRT/",
         "scopes": [
             "*.uu.se"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/BienManger/",
         "scopes": [
             "bienmanger.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/WebPassionist/",
         "scopes": [
             "egoo.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hebbet/",
         "scopes": [
             "*.googlewatchblog.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/enctitanica/",
         "scopes": [
             "*.encyclopedia-titanica.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lgrijsen/",
         "scopes": [
             "yoo.rs"
-        ]
+        ],
+        "awards": "to be discussed privately"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/proudsourcing/",
         "scopes": [
             "*.party-spirituosen.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dalerio76/",
         "scopes": [
             "camperonline.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/laviavigdor/",
         "scopes": [
             "simania.co.il"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fschwarzhoff/",
         "scopes": [
             "*.liga-tipp24.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Honscha_Muenzen/",
         "scopes": [
             "emuenzen.de",
             "emuenzen.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/VD_Labs/",
@@ -1990,19 +2451,22 @@
             "*.videdressing.it",
             "*.videdressing.com",
             "*.videdressing.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DevUser18/",
         "scopes": [
             "*.drone-traveller.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/evergreen_uk/",
         "scopes": [
             "leader-values.com"
-        ]
+        ],
+        "awards": "Twitter recognition or monetary reward depending on exploit found."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Tgirl_Christin/",
@@ -2011,163 +2475,189 @@
             "tgirl.r3y.de",
             "linuxcounter.net",
             "*.akademie-sport-gesundheit.de"
-        ]
+        ],
+        "awards": "nothing special"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/HhuWeb/",
         "scopes": [
             "*.uni-duesseldorf.de",
             "*.hhu.de"
-        ]
+        ],
+        "awards": "Currently no possible Awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/G4rve/",
         "scopes": [
             "*.sspc.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/filu82/",
         "scopes": [
             "gruempi.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/kandokavmachine/",
         "scopes": [
             "kok.ir"
-        ]
+        ],
+        "awards": "Non-Intrusive"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/yuchouchew/",
         "scopes": [
             "opentaste.sg"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AutomotiveDf/",
         "scopes": [
             "*.felgenshop.de",
             "df-automotive.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mteke2019/",
         "scopes": [
             "phoneky.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/davidbehler/",
         "scopes": [
             "preplounge.com"
-        ]
+        ],
+        "awards": "- Recommendation on researcher's OBB profile\r\n- Other rewards depending on severity of vulnerability"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RCikryt/",
         "scopes": [
             "jimejinak.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DAFCnet/",
         "scopes": [
             "happygolf.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Thor057/",
         "scopes": [
             "*.puzzle.be",
             "*.jigsawpuzzle.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/OPTCguide/",
         "scopes": [
             "findukphonenumber.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Adam26409383/",
         "scopes": [
             "oslohavn.no",
             "nj.no"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MVinfo1/",
         "scopes": [
             "*.materiel-velo.com",
             "materiel-velo.com"
-        ]
+        ],
+        "awards": "voucher on our website"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Szabi_drz/",
         "scopes": [
             "sichtschutzgarten.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eventmanagerOnl/",
         "scopes": [
             "eventmanager-online.com"
-        ]
+        ],
+        "awards": "We are just starting, and will be happy to find some security bugs, let us discus how we can help you!"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/corebox/",
         "scopes": [
             "corebox.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IBT_CA/",
         "scopes": [
             "ibt.ca"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Putlocker1234/",
         "scopes": [
             "thesinmagazine.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GustiHerrmann/",
         "scopes": [
             "*.ag.ch"
-        ]
+        ],
+        "awards": "nothing\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Previmeteo/",
         "scopes": [
             "previmeteo.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LeonardoWebSrl/",
         "scopes": [
             "verzuolo.com"
-        ]
+        ],
+        "awards": "reccomendation"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ArtStationHQ/",
         "scopes": [
             "artstation.com"
-        ]
+        ],
+        "awards": "To show our appreciation of responsible security researchers, ArtStation offers a monetary bounty for reports of qualifying security vulnerabilities. Reward amounts will vary based upon the severity of the reported vulnerability, and eligibility is at our sole discretion.\n\r\nThank you for helping keep ArtStation and our users safe!\n\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JacobStanton7/",
         "scopes": [
             "*.jitterbit.net",
             "*.jitterbit.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/_Re_/",
         "scopes": [
             "boutique.ogcnice.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/boengli/",
@@ -2185,69 +2675,80 @@
             "ditsch.com",
             "ditsch.de",
             "valora.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/romandunin/",
         "scopes": [
             "mytalk.io"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/graemefowler/",
         "scopes": [
             "lboro.ac.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/HealingCrystal6/",
         "scopes": [
             "*.healingcrystals.com"
-        ]
+        ],
+        "awards": "I'm new to this site and not sure."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bounty65489961/",
         "scopes": [
             "*.image.ece.ntua.gr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ComputerStef/",
         "scopes": [
             "thrillist.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/euvtechnology/",
         "scopes": [
             "*.engelvoelkers.com"
-        ]
+        ],
+        "awards": "Depending on the reported finding:\r\n- recommendation\r\n- mention\r\n- other goodies / bounties"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ptrelford/",
         "scopes": [
             "idtechex.com",
             "idtechex.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bonavitacola/",
         "scopes": [
             "spiralconnect.univ-lyon1.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DineshLapus/",
         "scopes": [
             "paperrebel.com",
             "americangreetings.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ikeoo/",
         "scopes": [
             "oneartyminute.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JC_Heyer/",
@@ -2262,75 +2763,87 @@
             "tranfermarkt.es",
             "transfermarkt.it",
             "*.transfermarkt.de"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile\r\ndepending on bug severity Amazon voucher"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/prosec09138848/",
         "scopes": [
             "*.protiq.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/inoventu/",
         "scopes": [
             "*.inoventu.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/_geeky_/",
         "scopes": [
             "*.geeky.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/pim_loon/",
         "scopes": [
             "paruzzi.com"
-        ]
+        ],
+        "awards": "willing to give recomendations or hall of fame mentions\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/astroseekcom/",
         "scopes": [
             "*.astro-seek.com"
-        ]
+        ],
+        "awards": "+Recommendation in researcher's profile,"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/gexrodrigues/",
         "scopes": [
             "*.toyota.com.br"
-        ]
+        ],
+        "awards": "For confirmed problems recommendation on your profile and hall of fame."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/NavigateCMS/",
         "scopes": [
             "*.navigatecms.com",
             "navigatecms.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DanielBingham82/",
         "scopes": [
             "murray.wa.gov.au"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/com/",
         "scopes": [
             "*.pulso.io"
-        ]
+        ],
+        "awards": "No awards."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/NuevosVecinos/",
         "scopes": [
             "nuevosvecinos.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DCB_Singapore/",
         "scopes": [
             "dreamcareerbuilder.com",
             "dreamcareerbuilder.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MatthiasCramer/",
@@ -2340,32 +2853,37 @@
             "*.ip6.ch",
             "*.checkcert.net",
             "*.freestone.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/vistakos/",
         "scopes": [
             "paok.softcomm.gr"
-        ]
+        ],
+        "awards": "possible contract"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SvobiP/",
         "scopes": [
             "house-of-flames.com",
             "*.bayern.by"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AppsecDiligent/",
         "scopes": [
             "boarddocs.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/anw_net/",
         "scopes": [
             "wieistmeineip.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/wpscan2/",
@@ -2381,13 +2899,15 @@
             "*.registerforskning.se",
             "jpiamr.eu",
             "nos-hs.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tweetmaveat1/",
         "scopes": [
             "eurim.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iwayAG/",
@@ -2395,74 +2915,86 @@
             "*.as8758.net",
             "*.iway.ch",
             "email.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/itsecop/",
         "scopes": [
             "*.real.de"
-        ]
+        ],
+        "awards": "- PayPal donation\r\n- voucher\r\n- good rating"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/davymaya/",
         "scopes": [
             "optimrezo.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PaulMar23292621/",
         "scopes": [
             "*.a1.net",
             "a1.net"
-        ]
+        ],
+        "awards": "At the moment there are no rewards, but this might change in the near future."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iCoccyx/",
         "scopes": [
             "youboat.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CPAleadDev/",
         "scopes": [
             "*.cpalead.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/imwe/",
         "scopes": [
             "foerderland.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/neogravity/",
         "scopes": [
             "*.isuzu-tis.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/endurit1/",
         "scopes": [
             "atdta.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SDS_Styria/",
         "scopes": [
             "*.diepresse.com"
-        ]
+        ],
+        "awards": "We could offer you a mention on Twitter or a beer if you're located in Vienna, Austria. Please don't hestitate to contact us for other possible awards."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LowCostRoutes/",
         "scopes": [
             "imperecheri.ro"
-        ]
+        ],
+        "awards": "If a vulnerability is found and confirmed, I'll write a recommendation on your profile. Unfortunately I can't offer monetary compensation."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Liviu59649280/",
         "scopes": [
             "*.antena3.ro"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lchanouha/",
@@ -2470,13 +3002,15 @@
             "authc.univ-toulouse.fr",
             "univ-toulouse.fr",
             "*.univ-toulouse.fr"
-        ]
+        ],
+        "awards": "Mention honorable sur Twitter"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bver/",
         "scopes": [
             "naspirale.cz"
-        ]
+        ],
+        "awards": "Your help is highly appreciated.\r\nRecommendation on the researcher's profile is the natural form of reward."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/WeekendeskS/",
@@ -2493,13 +3027,15 @@
             "*.weekendesk.nl",
             "weekendesk.fr",
             "*.weekendesk.fr"
-        ]
+        ],
+        "awards": "Possible free coupon on https//weekendesk.com depending of the vulnerability level and the quality of the disclosure."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/wimo_de/",
         "scopes": [
             "*.wimo.com"
-        ]
+        ],
+        "awards": "A grateful 'thank you'."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dludmann/",
@@ -2508,19 +3044,22 @@
             "investorenpakete.de",
             "closeduser.de",
             "valora.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CryptodealIndia/",
         "scopes": [
             "koinpay.tk"
-        ]
+        ],
+        "awards": "No Awards !\r\nBut maybe a Part Time Job!"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/websitepulse/",
         "scopes": [
             "*.websitepulse.com"
-        ]
+        ],
+        "awards": "We do not have a dedicated bug bounty budget but we will try to reward the researchers that contact us with verifiable vulnerabilities. It might several months before a reward is paid."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/pz78128353/",
@@ -2539,13 +3078,15 @@
             "comprigo.com.br",
             "comprigo.com",
             "comprigo.de"
-        ]
+        ],
+        "awards": "For confirmed problems, recommendation on your profile and hall of fame."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/paolocantoni/",
         "scopes": [
             "*.annuncifunebri.it"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/annahuberelemen/",
@@ -2564,129 +3105,150 @@
             "*.suedtirol.info",
             "*.falkensteiner.com",
             "*.kleinwalsertal.com"
-        ]
+        ],
+        "awards": "a nice thank you"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TallGuysFree/",
         "scopes": [
             "*.guysfree.com",
             "*.tallguysfree.com"
-        ]
+        ],
+        "awards": "* Hall of Fame listing\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SecurityVisier/",
         "scopes": [
-            "visier.com"
-        ]
+            "pentest.visier.com"
+        ],
+        "awards": "Visier rewards for findings may include:\r\n-A mention on our acknowledgements page.\r\n-An endorsement on the researcher's professional profile.\r\n-A more substantial reward in proportion to the severity of the security finding."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fmonet/",
         "scopes": [
             "cityplug.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hifitorget/",
         "scopes": [
             "hifitorget.se"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/crisenitan/",
         "scopes": [
             "*.vrixe.com"
-        ]
+        ],
+        "awards": "A glorious acknowledgement and continuous partnership often compensated. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/greatyouthgames/",
         "scopes": [
             "youthgroupgames.com.au"
-        ]
+        ],
+        "awards": "abcdefabcdef"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/n8manAfter/",
         "scopes": [
             "*.agiftinside.com"
-        ]
+        ],
+        "awards": "- Will leave a recommendation in researcher's profile\r\n- Will add name and nature of vulnerability to /security/acknowledgments.txt"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/cb_ximo/",
         "scopes": [
             "pista3.com"
-        ]
+        ],
+        "awards": "At least recommendation in research profile's."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/payam_pe/",
         "scopes": [
             "namava.ir"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PaillussonV/",
         "scopes": [
             "efeo.fr"
-        ]
+        ],
+        "awards": "recommendations on researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/The_OnlineRadio/",
         "scopes": [
             "onlinerad.io"
-        ]
+        ],
+        "awards": "Hall of fame\r\nBounty (Unlikely, but a possibility)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/saitenforum/",
         "scopes": [
             "stringforum.net",
             "saitenforum.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PaulDowding10/",
         "scopes": [
             "cablemonkey.co.uk"
-        ]
+        ],
+        "awards": "Unfortunately I cant offer any payment, but I can provide lots of recognition and reviews and potentially some swag."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Socialbakers1/",
         "scopes": [
             "*.socialbakers.com"
-        ]
+        ],
+        "awards": "Freebies, thanks and Hall of Fame acknowledgment on webpage."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tarif4you/",
         "scopes": [
             "tarif4you.de"
-        ]
+        ],
+        "awards": "it depends"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/povkis/",
         "scopes": [
             "pes.one"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RobertSedlak/",
         "scopes": [
             "*.dobrenoviny.sk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/VGianascio/",
         "scopes": [
             "aikido.ch"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/suupso/",
         "scopes": [
             "suupso.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LemonStandOps/",
         "scopes": [
             "lemonstand.com"
-        ]
+        ],
+        "awards": "- We thank every reporter for their time\r\n- Rewards are considered based on severity\r\n- We maintain a list of contributors and will contact each individually"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bing_fong/",
@@ -2694,70 +3256,81 @@
             "*.bffile.com",
             "*.ibf.tw",
             "*.bingfeng.tw"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/alesom77/",
         "scopes": [
             "webgis.arpa.piemonte.it"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile, mention in a Hall of Fame"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/apilotcz/",
         "scopes": [
             "*.traktorservis.cz",
             "*.emavi.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Fotka18/",
         "scopes": [
             "*.fotka.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mad4media_ger/",
         "scopes": [
             "*.mad4software.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GoDaddyBug/",
         "scopes": [
             "godaddy.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SchoneDaniel/",
         "scopes": [
             "larsson.uk.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/UludagIlker/",
         "scopes": [
             "*.fotomagnet.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/alexander_wirz/",
         "scopes": [
             "staufenbiel.de",
             "mba-master.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dvd_lz/",
         "scopes": [
             "*.computrabajo.com.co"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mirakovar/",
         "scopes": [
             "*.atilastyl.cz",
             "*.cpilot.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eagerlyinternet/",
@@ -2768,37 +3341,43 @@
             "*.paard.nl",
             "*.filmfestival.nl",
             "*.tivolivredenburg.nl"
-        ]
+        ],
+        "awards": "Recommendation / acknowledgement, profile endosement"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Prise2Tete/",
         "scopes": [
             "*.prise2tete.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/scrmetal/",
         "scopes": [
             "scrmetal.de"
-        ]
+        ],
+        "awards": "Being a very small business it is only possible for us to trade some music for bugs."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/infomusicro/",
         "scopes": [
             "infomusic.ro"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RentalcarsT/",
         "scopes": [
             "*.rentalcars.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hbunix/",
         "scopes": [
             "uni-bremen.de"
-        ]
+        ],
+        "awards": "Acknowledgement."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/OBB74286025/",
@@ -2806,7 +3385,8 @@
             "wwwtest.industrialinfo.com",
             "vvvvvv.industrialinfo.com",
             "industrialinfo.com"
-        ]
+        ],
+        "awards": "Acknowledgement / praise\r\nSmall financial bounty for major issues"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/wirthundhorn/",
@@ -2834,19 +3414,22 @@
             "international.klett-sprachen.de",
             "dtv.de",
             "klett-sprachen.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ssauer14/",
         "scopes": [
             "jfv-weimar.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hanitriyunianto/",
         "scopes": [
             "puragroup.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PAOK_FC/",
@@ -2854,7 +3437,8 @@
             "tv.paokfc.gr",
             "store.paokfc.gr",
             "paokfc.gr"
-        ]
+        ],
+        "awards": "Swag\r\nAcknowledgement\r\nMatch Tickets"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/aboros/",
@@ -2874,13 +3458,15 @@
             "*.officeshoesonline.sk",
             "*.officeshoes.rs",
             "*.officeshoes.hu"
-        ]
+        ],
+        "awards": "For confirmed problems recommendation on your profile and hall of fame. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MassiveStudio1/",
         "scopes": [
             "fcstrullendorf.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/M_Poil/",
@@ -2890,7 +3476,8 @@
             "*.quake4.fr",
             "*.quake.fr",
             "*.teeworlds.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/chris05634528/",
@@ -2903,19 +3490,22 @@
             "*.compliance.store.lexisnexis.com.au",
             "*.lexisnexis.com",
             "*.counsellink.net"
-        ]
+        ],
+        "awards": "Kudos and recommendations"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Jorim/",
         "scopes": [
             "writteninmusic.com"
-        ]
+        ],
+        "awards": "None so far"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/WilliamTRoot/",
         "scopes": [
             "*.webschoolofscience.com"
-        ]
+        ],
+        "awards": "Our express gratitude"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PapWebmaster/",
@@ -2931,25 +3521,29 @@
             "papcommerces.fr",
             "*.pap.fr",
             "*.site-pap.fr"
-        ]
+        ],
+        "awards": "None so far"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/cisco1115/",
         "scopes": [
             "comadres1.gtkpos.com"
-        ]
+        ],
+        "awards": "Will post on company page and reference it.\r\nhttp://gomeztek.com/\n\r\nAmazon gift cards will be sent for higher severity vulns."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CryptoCompare/",
         "scopes": [
             "cryptocompare.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/luscious_hentai/",
         "scopes": [
             "*.luscious.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fverry/",
@@ -2964,112 +3558,130 @@
             "lecardinal.biz",
             "*.site-pap.fr",
             "*.pap.fr"
-        ]
+        ],
+        "awards": "None so far"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/FirstOneTV/",
         "scopes": [
             "*.firstonetv.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/grim8634/",
         "scopes": [
             "*.cartridgesave.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tnyaritm/",
         "scopes": [
             "mediashop.hu",
             "mediashop.hu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jcid/",
         "scopes": [
             "yorcom.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Bitty_Torrent/",
         "scopes": [
             "demo.bittytorrent.com"
-        ]
+        ],
+        "awards": "I do not have much possibility of reward but for every fault find, you will be on the hall of fame of the project github =)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/cmodijk/",
         "scopes": [
             "yorcom.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/esd/",
         "scopes": [
             "educationdive.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Gorehide/",
         "scopes": [
             "*.consumer.es"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ash_sherif/",
         "scopes": [
             "*.islamonline.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/testberichteDE/",
         "scopes": [
             "*.testberichte.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/oliviusdm/",
         "scopes": [
             "space2scan.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/achernov/",
         "scopes": [
             "*.probeg.org"
-        ]
+        ],
+        "awards": "Nothing for the moment :("
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/datamystic/",
         "scopes": [
             "datamystic.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/aboutyou_tech/",
         "scopes": [
             "edited.de",
             "aboutyou.de"
-        ]
+        ],
+        "awards": "We have a private bug bounty on HackerOne. If you think you have found a vulnerability in our site please send an email to [email\u00a0protected] with your hackerone username and we will invite you to our program."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AneSybesma/",
         "scopes": [
             "bhznet.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/hakanguner/",
         "scopes": [
             "*.sporx.com"
-        ]
+        ],
+        "awards": "[email\u00a0protected]"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/zeroFiG/",
         "scopes": [
             "enhancedif.org",
             "trade4devnews.enhancedif.org"
-        ]
+        ],
+        "awards": "Recommendation in researchers profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/comter/",
@@ -3078,7 +3690,8 @@
             "driverseducationofamerica.com",
             "1-2-3driving.com",
             "scheduleyourlife.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sportovnivozy/",
@@ -3086,180 +3699,209 @@
             "*.rajaut.cz",
             "*.rajveteranu.cz",
             "*.sportovnivozy.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/H2Cash/",
         "scopes": [
             "hashto.cash"
-        ]
+        ],
+        "awards": "Depends on the level of vulnerability."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/markwalker_/",
         "scopes": [
             "marksweb.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lditzedde/",
         "scopes": [
             "jeu.orange.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/testmynet/",
         "scopes": [
             "*.testmy.net",
             "testmy.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/brumbrumSpA/",
         "scopes": [
             "*.brumbrum.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TucWebmaster/",
         "scopes": [
             "*.tu-chemnitz.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/willy0611/",
         "scopes": [
             "boincstats.com",
             "boincstats.eu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/diego_borrelli/",
         "scopes": [
             "*.fanpage.it"
-        ]
+        ],
+        "awards": "recommendation in researcher's "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ivornl/",
         "scopes": [
             "wtf.plus"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/GlamiBackstage/",
         "scopes": [
             "glami.cz",
             "glami.hu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jlm840/",
         "scopes": [
             "queensmuseum.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/marconancy/",
         "scopes": [
             "aqoona.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/JoshHar25910089/",
         "scopes": [
             "*.bookweb.org",
             "bookweb.org"
-        ]
+        ],
+        "awards": "Dependent on severity of vulnerability"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/emwitty/",
         "scopes": [
             "buddhist-art.arthistory.northwestern.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Babiel/",
         "scopes": [
             "*.babiel.com"
-        ]
+        ],
+        "awards": "If the site was developed by us, we sometimes send some candy, swag or money via paypal if they match the general requirements (see above).\n\r\nPlease remember we don't have a fixed budget and must decide on case-to-case basis based on severity.\n\r\nhttps://twitter.com/Babiel/status/928267395541749760\n\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/NonZen_S/",
         "scopes": [
             "oiepoie.nl"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/avito/",
         "scopes": [
             "m.avito.ru",
             "avito.ru"
-        ]
+        ],
+        "awards": "Currently only Kudos."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jerclarke/",
         "scopes": [
             "*.globalvoices.org"
-        ]
+        ],
+        "awards": "We are a cash-strapped non-profit, if you can help us then thank you for your efforts. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/FBeuster/",
         "scopes": [
             "*.beusterse.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bradleycorpweb1/",
         "scopes": [
             "*.bradleycorp.com"
-        ]
+        ],
+        "awards": "If you find a vulnerability, we'll remember you forever in source control.\n\r\nIf you save us from a terrible fate, we'll figure out some way to show gratitude. We don't really know you so we don't know what you'll accept."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mzierhut1/",
         "scopes": [
             "*.voelkner.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/rlaager/",
         "scopes": [
             "*.wiktel.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MediaVgn/",
         "scopes": [
             "tv-media.at"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/arcidiac/",
         "scopes": [
             "*.drneubauer.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ytsjeam0/",
         "scopes": [
             "nancy.archi.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Ikada20/",
         "scopes": [
             "*.proud-web.jp"
-        ]
+        ],
+        "awards": "mention in a Hall of Fame or something more valuable proportional to the researcher's efforts"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MonoIsCool/",
         "scopes": [
             "metal-archives.com"
-        ]
+        ],
+        "awards": "We will write a recommendation on the researcher's profile."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lunapiccom/",
         "scopes": [
             "*.lunapic.com"
-        ]
+        ],
+        "awards": "award is comenserate with level of danger "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/digisolid/",
@@ -3268,13 +3910,15 @@
             "babywinkel-info.nl",
             "telecommunicatie-info.nl",
             "incassobureau-info.nl"
-        ]
+        ],
+        "awards": "We will recommend everyone who finds a vulnerability."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/WritingCom/",
         "scopes": [
             "*.writing.com"
-        ]
+        ],
+        "awards": "We have no experience with awards or rewarding. :-(   Hoping for some good souls that love the art of writing to help us out.  We are a small online community."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/craigmunro_1/",
@@ -3290,69 +3934,80 @@
             "eurogamer.cz",
             "eurogamer.be",
             "eurogamer.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/blog_entertain/",
         "scopes": [
             "*.phpman89.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/olenjohnsen/",
         "scopes": [
             "phantomranch.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bnjmnbck/",
         "scopes": [
             "topicmapslab.de"
-        ]
+        ],
+        "awards": "Thank you tweet (sorry, not more)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/brutemorse/",
         "scopes": [
             "*.acronis.com"
-        ]
+        ],
+        "awards": "Kudos only"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/blickreif/",
         "scopes": [
             "it-recht-kanzlei.de"
-        ]
+        ],
+        "awards": "I am open to suggestions."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/blac/",
         "scopes": [
             "*.stacyblackman.com",
             "*.gideononline.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/studisonline/",
         "scopes": [
             "bafoeg-rechner.de",
             "studis-online.de"
-        ]
+        ],
+        "awards": "Mention in hall of fame: https://www.studis-online.de/Interna/impressum.php#danke\n\r\nDepending on the severity of the issue maybe more\u2026 (no guarantee)."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/croxy_proxy/",
         "scopes": [
             "croxyproxy.com"
-        ]
+        ],
+        "awards": "NOT DEFINED"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ddanier/",
         "scopes": [
             "fc.webmasterpro.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MayhemicMAD/",
         "scopes": [
             "forgottenhope.warumdarum.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/CodingLabsAU/",
@@ -3362,19 +4017,22 @@
             "coins-auctioned.com",
             "gemrockauctions.com",
             "opalauctions.com"
-        ]
+        ],
+        "awards": "- payments (PayPal)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MrPiracyPt/",
         "scopes": [
             "*.mrpiracy.xyz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TorbenBecker3/",
         "scopes": [
             "autobild.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/LidlSecurity/",
@@ -3385,56 +4043,65 @@
             "*.lidl-shop.cz",
             "*.lidl-shop.nl",
             "*.lidl-shop.be"
-        ]
+        ],
+        "awards": "nothing yet"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Kissbankers/",
         "scopes": [
             "kisskissbankbank.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/NetHire/",
         "scopes": [
             "*.nethire.com"
-        ]
+        ],
+        "awards": "None preferred"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/chess24/",
         "scopes": [
             "*.chess24.com"
-        ]
+        ],
+        "awards": "Free Premium memberships or paid content."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/grussvonorwell/",
         "scopes": [
             "tanzschulerueff.at"
-        ]
+        ],
+        "awards": "- Recommendation in researchers profile\r\n- Mention in hall of fame\r\n- Small (really small) donations"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/scips/",
         "scopes": [
             "rtbf.be"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/webmaster_ctan/",
         "scopes": [
             "*.ctan.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/TeamPOLAR1/",
         "scopes": [
             "vergleich.de",
             "drklein.de"
-        ]
+        ],
+        "awards": "will be decided for each individual case"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Tundait/",
         "scopes": [
             "tunda.it"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/IBetrieb/",
@@ -3447,7 +4114,8 @@
             "baby-walz.at",
             "moderne-hausfrau.de",
             "baby-walz.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/aartvdwerf/",
@@ -3474,19 +4142,22 @@
             "bakkerelkhuizen.co.uk",
             "jobopromotions.nl",
             "silkjewels.com"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RedBroadband/",
         "scopes": [
             "secure.redbroadband.com.au"
-        ]
+        ],
+        "awards": "Happy to leave positive feedback for reports but can not offer monetary reward"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eromon3/",
         "scopes": [
             "eromon.net"
-        ]
+        ],
+        "awards": "i cant understand how to do."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/arbgae42g/",
@@ -3503,61 +4174,71 @@
             "*.twinkl.com",
             "*.twinkl.com.au",
             "*.twinkl.co.uk"
-        ]
+        ],
+        "awards": "We're always happy to write thank-yous and recommendations in your OBB profiles for responsible disclosure.\n\r\nThank you for helping us on our mission to help those who teach and change the world through education!\n\n"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/adafruit/",
         "scopes": [
             "adafruit.com"
-        ]
+        ],
+        "awards": "Adafruit products and more."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/teaminspire/",
         "scopes": [
             "*.inspire.com"
-        ]
+        ],
+        "awards": "Still developing, get in touch if you have something"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/iboulard/",
         "scopes": [
             "carpoolworld.com"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile or other mention of your choice"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/lpavlicek1/",
         "scopes": [
             "*.vse.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/deluxetom/",
         "scopes": [
             "*.bang.com"
-        ]
+        ],
+        "awards": "Up to $50 when verified"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/adrianmejias/",
         "scopes": [
             "globalcanineregistry.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/yjacolin/",
         "scopes": [
             "georezo.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mskimin/",
         "scopes": [
             "*.loraincounty.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/redicius/",
         "scopes": [
             "vestirna.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ClementBourgoin/",
@@ -3574,7 +4255,8 @@
             "*.biblys.fr",
             "*.axys.me",
             "*.belial.fr"
-        ]
+        ],
+        "awards": "Recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/cyberday_gmbh/",
@@ -3601,47 +4283,54 @@
             "kaffeeno.de",
             "technik-profis.de",
             "cyberday-gmbh.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RickBongers/",
         "scopes": [
             "compumatica.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ae27ff/",
         "scopes": [
             "*.ae27ff.meme.tips",
             "*.meme.tips"
-        ]
+        ],
+        "awards": "At this time, the website is ran out-of-pocket, so no reward is able to be provided except a form of recognition for your help on the website. (for ae27ff, a credits page entry)"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AC_Anonymous/",
         "scopes": [
             "*.juntadeandalucia.es"
-        ]
+        ],
+        "awards": "There are no awards contemplated, but if you can help us then thank you for your efforts. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MacDadaPL/",
         "scopes": [
             "*.demotywatory.pl",
             "*.joemonster.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/roche_security/",
         "scopes": [
             "*.gene.com",
             "*.roche.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/FalikSh55583121/",
         "scopes": [
             "*.truconversion.com",
             "app.truconversion.com"
-        ]
+        ],
+        "awards": "1. Recommendation in researcher's profile\r\n2. May mention in a Hall of Fame\r\n3. Public acknowledgement"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/api_test1337/",
@@ -3654,37 +4343,43 @@
             "robotik-produktion.de",
             "it-production.com",
             "invision-news.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fadlerQA/",
         "scopes": [
             "*.meinestadt.de"
-        ]
+        ],
+        "awards": "no awards at the moment - feel free to contact for updates"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/wladiolo/",
         "scopes": [
             "paolocarrara.me"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/MatthieuNicola5/",
         "scopes": [
             "*.glenat.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/coderintherye/",
         "scopes": [
             "kiva.org"
-        ]
+        ],
+        "awards": "Kiva provides a monetary reward in the form of a Kiva card. This can be used to make a loan which will then pay back to you and can then be withdrawn to PayPal after each repayment.\n\r\nThere of course is also the award of good karma for helping a non-profit to keep its site secure in service to the mission of helping those who are less fortunate in the world."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jonny_caos/",
         "scopes": [
             "wine-searcher.com"
-        ]
+        ],
+        "awards": "Recommendations. Hall of fame mentions. Possibly something more depending on the severity of the vulnerability uncovered as determined on case-by-case basis. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Leen151/",
@@ -3694,38 +4389,44 @@
             "funkmartini.gr",
             "bucmi.com",
             "uala.it"
-        ]
+        ],
+        "awards": "We give public recognition and/or money rewards related to the level of the vulnerability."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/yyaakkoovv/",
         "scopes": [
             "*.bhphotovideo.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/matt_dragon/",
         "scopes": [
             "*.charitynavigator.org"
-        ]
+        ],
+        "awards": "Willing to do recommendations or send swag if we have any available at the time"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/rmanojc/",
         "scopes": [
             "infrafrontier.eu"
-        ]
+        ],
+        "awards": "recommendation in researcher's profile"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/spideronline/",
         "scopes": [
             "firstgroup.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/aivanise/",
         "scopes": [
             "book.austrian.com",
             "tickets.airbaltic.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/archiveis/",
@@ -3734,7 +4435,8 @@
             "archive.is",
             "archive.li",
             "archive.fo"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/eulenberger/",
@@ -3742,73 +4444,85 @@
             "pretago.de",
             "nc-agent.de",
             "netclusive.de"
-        ]
+        ],
+        "awards": "recommendations, karma, swag"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/UKClimbing/",
         "scopes": [
             "*.ukclimbing.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/busuuTech/",
         "scopes": [
             "busuu.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/DigitalOmko/",
         "scopes": [
             "omko.cz"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/filipe_m_silva/",
         "scopes": [
             "sata.pt"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/tproger/",
         "scopes": [
             "tproger.ru"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Cybershelp/",
         "scopes": [
             "zero-day.cz"
-        ]
+        ],
+        "awards": "We will publicly recognize all researchers, who are able to find vulnerabilities on our websites."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/storiesonline/",
         "scopes": [
             "storiesonline.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/yowindow/",
         "scopes": [
             "*.yowindow.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/jsesser/",
         "scopes": [
             "ngi.msstate.edu"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/SylvaFoundation/",
         "scopes": [
             "*.sylva.org.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mbaumgartl/",
         "scopes": [
             "godmode-trader.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/fislerdata/",
@@ -3816,20 +4530,23 @@
             "myconferencetime.com",
             "timetosignup.com",
             "myworkshops.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nidapo5/",
         "scopes": [
             "5thdunstablescouts.org.uk"
-        ]
+        ],
+        "awards": "We are a charity, and do not have a financial budget for bug bounties.\r\nBut we are happy to recognise your contribution in any appropriate manner."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/KeigerInc/",
         "scopes": [
             "keigerdirect.com",
             "keiger.com"
-        ]
+        ],
+        "awards": "We don't have a bug bounty program. A reward of money or swag isn't something we give out."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nelson_camacho/",
@@ -3837,20 +4554,23 @@
             "conventocristo.pt",
             "torrebelem.pt",
             "mosteirojeronimos.pt"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bg_franks/",
         "scopes": [
             "british-gymnastics.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/infomaniak/",
         "scopes": [
             "*.infomaniak.com",
             "infomaniak.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ZwirniLE/",
@@ -3858,49 +4578,57 @@
             "siedler3.net",
             "liga.siedler3.net",
             "thomaszwirner.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/nextepisodenet/",
         "scopes": [
             "next-episode.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bern/",
         "scopes": [
             "megaspin.net"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/AtECommerce/",
         "scopes": [
             "leroidelafenetre.fr"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/ObitronIT/",
         "scopes": [
             "obitron.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/borisegx/",
         "scopes": [
             "*.eduteka.icesi.edu.co"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/colin_leroy/",
         "scopes": [
             "claws-mail.org"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/PaperCutDev/",
         "scopes": [
             "papercut.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/dezertdezine/",
@@ -3910,55 +4638,64 @@
             "*.almeriahomes.com",
             "*.mojacarestates.com",
             "*.veritashomes.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/mhmazur/",
         "scopes": [
             "preceden.com"
-        ]
+        ],
+        "awards": "I'm more than happy to pay out bounties via PayPal for valid reports about security issues with Preceden. "
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/qaopt2017/",
         "scopes": [
             "*.eusou.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/kevinBaseCom/",
         "scopes": [
             "base.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/RealArties/",
         "scopes": [
             "asc-shop.de"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Chaos_Smurf/",
         "scopes": [
             "ebhorsman.com"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/bobthenob/",
         "scopes": [
             "tumbltrak.co.uk"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/sesammases/",
         "scopes": [
             "staging.futourist.io"
-        ]
+        ],
+        "awards": "No possible awards"
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/reflectgames/",
         "scopes": [
             "reflectgames.com"
-        ]
+        ],
+        "awards": "No rewards available at this time."
     },
     {
         "url": "https://www.openbugbounty.org/bugbounty/Unisport/",
@@ -3972,6 +4709,7 @@
             "unisportstore.se",
             "unisportstore.no",
             "unisport.dk"
-        ]
+        ],
+        "awards": "No possible awards"
     }
 ]
